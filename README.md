@@ -4,6 +4,13 @@
 <h3 align="center">Junior Software Developer | Web & Android Development</h3>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Code-Passionate-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Learning%20Everyday-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Clean%20Code-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-purple?style=for-the-badge" />
+</p>
+
+<p align="center">
   <a href="mailto:kharismatio220@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
@@ -63,6 +70,17 @@ I continuously improve my understanding of **software architecture**, **clean co
 
 ---
 
+## ⚡ Skill Highlights
+<p>
+  <img src="https://img.shields.io/badge/Backend-PHP%20%7C%20Laravel-darkred?style=flat-square" />
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Mobile-Kotlin%20%7C%20React%20Native-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/Database-MySQL%20%7C%20Postgres-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/DevOps-Docker-lightblue?style=flat-square" />
+</p>
+
+---
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Paradox281&theme=radical&hide_border=true" />
@@ -74,15 +92,14 @@ I continuously improve my understanding of **software architecture**, **clean co
 
 ---
 
-## 🎯 Goals
-- Become a professional software developer  
-- Build scalable and maintainable applications  
-- Gain industry experience and contribute to open source  
-
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Paradox281&style=for-the-badge&color=grey" />
+  <img src="https://img.shields.io/github/followers/Paradox281?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/Paradox281?style=for-the-badge" />
+</p>
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=Paradox281&icon=0&color=0" />
 </p>
 
-<!-- Proudly created with GPRM -->
+<!-- README Version 1.0 Enhanced -->
